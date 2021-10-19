@@ -1,5 +1,1 @@
-"SUSHI" 
-"YAKINIKU" 
-"RAMEN" 
-"RAMEN" 
 "Salmon" 
